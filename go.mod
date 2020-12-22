@@ -1,4 +1,4 @@
-module github.com/alexedwards/argon2id
+module github.com/natefinch/argon2id
 
 go 1.12
 
